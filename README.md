@@ -1,11 +1,10 @@
-## Aplicacion del clima utilizando NodeJS
+# Django en contenedor Docker 
+## Esta es una app desarrollada en Django
 
 
-Recuereden ejecutar ```npm install`` par alas librerias`
+Recuereden ejecutar pip install par las librerias`
 
-
-###Ejemplo
 ```
-node app -d "Chicago"
+pip install -r requeriments
 
 ``` 
